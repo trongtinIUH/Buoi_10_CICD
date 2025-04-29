@@ -8,6 +8,6 @@ public class InventoryController {
 
     @PostMapping("/update")
     public String updateStock() {
-        return "Stock updated successfully.";
+        return "Stock updated successfully. test thành công rồi";
     }
 }
